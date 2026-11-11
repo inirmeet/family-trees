@@ -52,7 +52,7 @@ search families; owners log in to build and maintain their family's tree.
 Requires Node.js 20 or later.
 
 ```bash
-git clone <repo-url>
+git clone git@github.com:inirmeet/family-trees.git
 cd familyTree
 npm install
 npm run db:migrate   # create the SQLite database
